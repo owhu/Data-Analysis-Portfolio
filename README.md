@@ -15,19 +15,18 @@ I’m actively seeking data analyst opportunities where I can contribute to data
 
 ## Projects
 
-### Refugee Data 1999-2016
+### [Refugee Data 1999-2016](https://public.tableau.com/app/profile/oliver.hu5770/viz/RefugeeData1999-2016/Story1?publish=yes)
 - Tools: Tableau
 - Built an interactive story to track refugee data by year and country
-- [Refugee Data 1999-2016](https://public.tableau.com/app/profile/oliver.hu5770/viz/RefugeeData1999-2016/Story1?publish=yes)
 
-### Patient No-Show Prediction
+### [Patient No-Show Prediction](https://github.com/owhu/Patient-No-Show-Prediction/blob/main/Patient%20No-Show%20Prediction.ipynb)
 - Tools: Python, Pandas, Matplotlib
 - Analyzed 100K + medical records (Python, Pandas, Matplotlib ) to identify drivers of patient no-shows
 - Identified lead time as the strongest predictor of cancellations, informing scheduling optimization strategies
-- [Patient No-Show Prediction](https://github.com/owhu/Patient-No-Show-Prediction/blob/main/Patient%20No-Show%20Prediction.ipynb)
+  
 
-### Movie Revenue Analysis
+### [Movie Revenue Analysis](https://github.com/owhu/Movie-Revenue-Analysis/blob/main/Movie%20Revenue%20Analysis-2.ipynb)
 - Tools: Python, Pandas, Matplotlib
 - Analyzed 10K + film records (Python, Pandas) to identify key revenue drivers, including genre and runtime
 - Built visualizations (scatterplots, trends) to support forecasting insights
-- [Movie Revenue Analysis](https://github.com/owhu/Movie-Revenue-Analysis/blob/main/Movie%20Revenue%20Analysis-2.ipynb)
+
