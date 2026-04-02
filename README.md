@@ -17,14 +17,13 @@ I’m actively seeking data analyst opportunities where I can contribute to data
 
 ### Refugee Data 1999-2016
 - Tools: Tableau
-- Built an interactive dashboard to track refugee data by year and country
+- Built an interactive story to track refugee data by year and country
 - [Refugee Data 1999-2016](https://public.tableau.com/app/profile/oliver.hu5770/viz/RefugeeData1999-2016/Story1?publish=yes)
 
 ### Patient No-Show Prediction
 - Tools: Python, Pandas, Matplotlib
 - Analyzed 100K + medical records (Python, Pandas, Matplotlib ) to identify drivers of patient no-shows
-- Identified lead time as the strongest predictor of cancellations, informing scheduling optimization
-strategies.
+- Identified lead time as the strongest predictor of cancellations, informing scheduling optimization strategies
 - [Patient No-Show Prediction](https://github.com/owhu/Patient-No-Show-Prediction/blob/main/Patient%20No-Show%20Prediction.ipynb)
 
 ### Movie Revenue Analysis
