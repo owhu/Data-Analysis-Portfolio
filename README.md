@@ -15,6 +15,10 @@ I’m actively seeking data analyst opportunities where I can contribute to data
 
 ## Projects
 
+### [Global Sales Superstore](https://public.tableau.com/app/profile/oliver.hu5770/viz/GlobalSalesSuperstore_17751660528760/Dashboard1?publish=yes)
+- Tools: Tableau
+- Developed an interactive Tableau dashboard to analyze global sales performance, identifying tables as the lowest-performing item and copiers as the highest-performing item, as well as highlighting top and underperforming regions to guide strategic decisions
+
 ### [Refugee Data 1999-2016](https://public.tableau.com/app/profile/oliver.hu5770/viz/RefugeeData1999-2016/Story1?publish=yes)
 - Tools: Tableau
 - Built an interactive story to track refugee data by year and country
@@ -24,7 +28,6 @@ I’m actively seeking data analyst opportunities where I can contribute to data
 - Analyzed 100K + medical records (Python, Pandas, Matplotlib ) to identify drivers of patient no-shows
 - Identified lead time as the strongest predictor of cancellations, informing scheduling optimization strategies
   
-
 ### [Movie Revenue Analysis](https://github.com/owhu/Movie-Revenue-Analysis/blob/main/Movie%20Revenue%20Analysis-2.ipynb)
 - Tools: Python, Pandas, Matplotlib
 - Analyzed 10K + film records (Python, Pandas) to identify key revenue drivers, including genre and runtime
