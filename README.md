@@ -20,20 +20,10 @@ Tools: Tableau, Python, SQL, Pandas, Matplotlib, Seaborn
 
 A case study investigating the financial impact of discounting strategies on profit margins. This project translates raw transaction data into insights by pairing SQL and Python with an interactive, narrative-driven Tableau dashboard.
 
-### [Refugee Data 1999-2016](https://public.tableau.com/app/profile/oliver.hu5770/viz/RefugeeData1999-2016/Story1?publish=yes)
-Tools: Tableau
-
-Built an interactive story to track refugee data by year and country
-
 ### [Patient No-Show Prediction](https://github.com/owhu/Patient-No-Show-Prediction/blob/main/Patient%20No-Show%20Prediction.ipynb)
 Tools: Python, Pandas, Matplotlib
 
 Analyzed 100K + medical records (Python, Pandas, Matplotlib ) to identify drivers of patient no-shows
 Identified lead time as the strongest predictor of cancellations, informing scheduling optimization strategies
-  
-### [Movie Revenue Analysis](https://github.com/owhu/Movie-Revenue-Analysis/blob/main/Movie%20Revenue%20Analysis-2.ipynb)
-Tools: Python, Pandas, Matplotlib
 
-Analyzed 10K + film records (Python, Pandas) to identify key revenue drivers, including genre and runtime
-Built visualizations (scatterplots, trends) to support forecasting insights
 
