@@ -15,10 +15,12 @@ I’m actively seeking data analyst opportunities where I can contribute to data
 
 ## Projects
 
-### [Retail Profitability Leakage: The True Cost of Heavy Discounting](https://public.tableau.com/app/profile/oliver.hu5770/viz/RetailProfitabilityLeakageTheTrueCostofHeavyDiscounting/Dashboard1?publish=yes)
+### [Retail Profitability Leakage: The True Cost of Heavy Discounting](https://github.com/owhu/The-True-Cost-of-Heavy-Discounting)
 Tools: Tableau, Python, SQL, Pandas, Matplotlib, Seaborn 
 
 A case study investigating the financial impact of discounting strategies on profit margins. This project translates raw transaction data into insights by pairing SQL and Python with an interactive, narrative-driven Tableau dashboard.
+
+[Go directly to the Tableau dashboard here!](https://public.tableau.com/app/profile/oliver.hu5770/viz/RetailProfitabilityLeakageTheTrueCostofHeavyDiscounting/Dashboard1?publish=yes)
 
 ### [Patient No-Show Prediction](https://github.com/owhu/Patient-No-Show-Prediction/blob/main/Patient%20No-Show%20Prediction.ipynb)
 Tools: Python, Pandas, Matplotlib
