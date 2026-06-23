@@ -22,7 +22,7 @@ A case study investigating the financial impact of discounting strategies on pro
 
 [Go directly to the Tableau dashboard here!](https://public.tableau.com/app/profile/oliver.hu5770/viz/RetailProfitabilityLeakageTheTrueCostofHeavyDiscounting/Dashboard1?publish=yes)
 
-### [Patient No-Show Prediction](https://github.com/owhu/Patient-No-Show-Prediction/blob/main/Patient%20No-Show%20Prediction.ipynb)
+### [Patient No-Show Prediction](https://github.com/owhu/Patient-No-Show-Prediction/tree/main)
 Tools: Python, Pandas, Matplotlib
 
 Analyzed 100K + medical records (Python, Pandas, Matplotlib ) to identify drivers of patient no-shows
